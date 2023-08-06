@@ -1,0 +1,11 @@
+---
+
+hostname: "192.168.4.101"
+username: "shukla"
+password: "Juniper1"
+device: "juniper"
+bgp:
+    asn: "65000"
+    neighbors:
+        - "1.1.1.1"
+        - "2.2.2.2"
